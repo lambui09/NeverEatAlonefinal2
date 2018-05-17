@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DemoVersion3</string>
+    <string name="title_activity_login2">login2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">Trang chủ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Hãy nhập Email</string>
+    <string name="enter_password">Hãy nhập mật khẩu</string>
+    <string name="registering">Đang đăng kí</string>
+    <string name="logining">Đang đăng nhập</string>
+    <string name="not_register">Không thể tạo tài khoản, hãy thử lại!</string>
+    <string name="register">Đăng kí</string>
+    <string name="login">Đăng nhập</string>
+    <string name="sign_in_here">Đã có tài khoản, đăng nhập tại đây</string>
+    <string name="not_account">Chưa có tài khoản, đăng kí tại đây</string>
+    <string name="log_out">Đăng xuất</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="avatar">Ảnh đại diện</string>
+    <string name="camera">Chụp ảnh mới</string>
+    <string name="thu_vien">Chọn ảnh từ thư viện</string>
+    <string name="do_Login">Bạn có muốn đăng xuất</string>
+    <string name="YES">Có</string>
+    <string name="NO">Không</string>
+    <string name="welcom">Xin chào</string>
+    <string name="mesage">Tin nhắn</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="notification">Thông báo</string>
+</resources>
